@@ -10,13 +10,15 @@ The main objective is to build models that can accurately predict future ridersh
 🧪 Evaluation Metrics:
 
 The models were evaluated using:
-Mean Absolute Error (MAE)
-Mean Squared Error (MSE)
-R² Score: 94%
+Mean Absolute Error (MAE),
+Mean Squared Error (MSE),
+R² Score.
 
 📈 Results:
 
 The best model achieved:
-R² Score: ~94%
+R² Score: 94%
+
 Strong generalization on unseen data
+
 Clear seasonality and trend capture in predictions
